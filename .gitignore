@@ -1,0 +1,7 @@
+# Ignore all files and directories except src/lib, readme.md, and .gitignore
+/*
+!src/lib/index.jsx
+!src/lib/style.css
+
+!/README.md
+!/.gitignore
